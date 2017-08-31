@@ -7,7 +7,7 @@ class Hello {
     
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("Trainee - Yuphaphorn Wiwekwaew --- ");
+        System.out.println("Trainee - Krerk Piromsopa, Ph.D. --- ");
     }
     
     public static void main(String [] argv) {
